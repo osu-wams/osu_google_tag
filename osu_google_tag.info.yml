@@ -3,5 +3,6 @@ type: module
 description: Apply default configs and form overrides.
 package: OSU
 core_version_requirement: ^9 || ^10
+version: 1.0.0
 dependencies:
   - google_tag
